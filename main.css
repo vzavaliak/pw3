@@ -1,0 +1,25 @@
+BODY {
+    background: tomato;
+}
+.point {
+    text-align: center;
+}
+.target {
+    background: lightgray;
+}
+.box {
+    background: lightgray;
+    width: 200px;
+
+}
+.father{
+    background: tomato;
+    display: flex;
+    justify-content: space-around;
+}
+.sit{
+    background: lightgray;
+    width: 400px;
+    padding: 10px;
+
+}
